@@ -1,0 +1,15 @@
+{
+    "project_name": "Solar Power Generation Prediction",
+    "model_name": "Hist Gradient Boosting",
+    "target": "AC_POWER",
+    "features": [
+        "AMBIENT_TEMPERATURE",
+        "MODULE_TEMPERATURE",
+        "IRRADIATION",
+        "HOUR_SIN",
+        "HOUR_COS",
+        "DAY_SIN",
+        "DAY_COS",
+        "PLANT_ID"
+    ]
+}
